@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a Crud project using Docker, Spring, MySQL, Neo4j, Elasticsearch.
+- 🌱 I’m currently learning Docker + Kubernetes and Spring Transactions
